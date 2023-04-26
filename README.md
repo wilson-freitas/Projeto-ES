@@ -66,4 +66,3 @@ Equipe de desenvolvimento do projeto de E.S:
   </tr>
 </table>
 
-[⬆ Voltar ao topo]()<br>
