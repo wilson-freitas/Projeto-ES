@@ -2,8 +2,6 @@
 
 > De acordo com a Organização Mundial de Saúde (OMS), somente no Brasil, cerca de 30 milhões de animais estão abandonados, sendo aproximadamente 20 milhões de cães e 10 milhões de gatos. Em grandes metrópoles, para cada cinco habitantes há um cachorro. Desses, 10% estão abandonados (25 de mai. de 2022)
 
-## 🏹 Alguns links importantes
-
 ##	✨ Apresentações do nosso projeto:
 
 * 💬 Slides da Apresentação Final: Para acessar a apresentação final do projeto, *[Clique Aqui](https://docs.google.com/presentation/d/1lvUiyALc6L7EEmEaunugWqWoud17cx9STeDcBoBcsdI/edit#slide=id.g23a1d83c96a_0_141)*
@@ -20,19 +18,8 @@
 `- Contato contínuo com o cliente para garantir a perenidade da solução.` <br>
 
 * *Quais os fundamentos que você aprendeu que nortearão as hipóteses de solução?*: <br> `- Metodologia Ágil (Iteração com o cliente)` <br> `- Experiência de usuário (UX/UI)` <br> `- MVP` <br> `- Teste de Software`
-* *Que solução você sugere para ser desenvolvida?*: <br>`Um aplicativo que ajuda a promover a adoção de animais de abrigo, conectando abrigos de animais e potenciais adotantes em uma plataforma fácil de usar e interativa.`
-* *Como você testará a solução no mundo real?*: <br>`As ideias para teste são:` <br>`1: MVP, para validar a efetividade da solução.` <br>`2: Contato direto com um potencial cliente para servir de ponto de partida.`
-
-
-### 👮 Ajustes e melhorias 
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [ ] Tarefa x
-- [ ] Tarefa y
-- [ ] Tarefa z
-- [ ] Tarefa w
-- [ ] Tarefa v
+* *Que solução você sugere para ser desenvolvida?*: <br>`Uma solução web que agiliza os processos de gestão por meio de um CRUD
+* *Como você testará a solução no mundo real?*: <br>`As ideias para teste são:` <br>`1: MVP, para validar a efetividade da solução.` <br>`2: Contato direto como cliente para validação.
 
 ## ☕ Usando o Pets Save
 
