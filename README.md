@@ -21,18 +21,9 @@
 * *Que solução você sugere para ser desenvolvida?*: <br>`Uma solução web que agiliza os processos de gestão por meio de um CRUD
 * *Como você testará a solução no mundo real?*: <br>`As ideias para teste são:` <br>`1: MVP, para validar a efetividade da solução.` <br>`2: Contato direto como cliente para validação.
 
-## ☕ Usando o Pets Save
-
-Para usar o site do **Pets Save**, siga estas etapas:
-
-```
-<exemplo_de_uso>
-```
-
-
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuindo para nosso projeto
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+Para contribuir com <o projeto, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
