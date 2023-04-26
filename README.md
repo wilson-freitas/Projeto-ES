@@ -4,23 +4,20 @@
 
 ## 🏹 Alguns links importantes
 
-*  Para acessar o Figma do Projeto (UI), *[Clique Aqui](https://www.figma.com/file/WQt0vSYlpgCy7tAJxBaBkr/Untitled?node-id=19-140&t=aJM6Si5DJetBYxu5-0)*
-
 ##	✨ Apresentações do nosso projeto:
 
-* 💬 **ETAPA 1** (27/03) : Para acessar a apresentação do **STATUS REPORT** planejado para essa data acima, *[Clique Aqui](https://www.canva.com/design/DAFd3-qb92A/k-0rPFf4YmAYaVoamZkU9Q/edit)*
+* 💬 Slides da Apresentação Final: Para acessar a apresentação final do projeto, *[Clique Aqui](https://docs.google.com/presentation/d/1lvUiyALc6L7EEmEaunugWqWoud17cx9STeDcBoBcsdI/edit#slide=id.g23a1d83c96a_0_141)*
 
 ## 💻 Challenge Based Learning aplicado ao Projeto
 
 * *Que big idea você propõe para o projeto?*:<br>Propomos como tema principal: `Adoção de animais de abrigo.`
-* *Que questão essencial você propõe para o projeto?*:<br>Propomos como questão essencial: `Como conectar abrigos de animais com potenciais adotantes?`
-* *Como você transforma a essential question e a big idea em um desafio similar a uma chamada para a ação?*:<br>Como um dos challanges para ajudar os animais em situação de rua, que resume a essencial question e a big idea, temos: `Ajudar a encontrar um lar para cada animal de estimação de abrigo, reduzindo o número de animais abandonados`
+* *Que questão essencial você propõe para o projeto?*:<br>Propomos como questão essencial: `Como auxiliar o projeto Adote um Vira Lata a melhorar seus processos?`
+* *Como você transforma a essential question e a big idea em um desafio similar a uma chamada para a ação?*:<br>Como um dos challanges para ajudar os animais em situação de rua, que resume a essencial question e a big idea, temos: `Ajudar o projeto Adote um Vira Lata a aprimorar seus processos e facilitar a gestão dos animais.`
 
-* *Que questões norteadoras você propõe para explorar e aprender mais sobre o desafio?*:<br>Questões-chaves: <br>`- Como conectar abrigos e adotantes de forma eficaz?`<br>`- Como garantir que os adotantes são confiáveis?`<br>`- Como captar mais pessoas para utilizarem o aplicativo?`
-* *Quais atividades e recursos norteadores você sugere para responder às questões norteadoras?*: <br>`- Pesquisa com abrigos sobre o assunto` <br>
-`- Interface que conecta os dois lados da problemática` <br>
-`- Cadastro dos potenciais clientes adotantes` <br>
-`- Estratégia de marketing visando conscientização e aderência das pessoas ao projeto`
+* *Que questões norteadoras você propõe para explorar e aprender mais sobre o desafio?*:<br>Questões-chaves: <br>`- Como desenvolver um sistema de fácil usabilidade que atenda às necessidades do cliente?`<br>`- Como garantir que o sistema tornará os processos mais ágeis?`<br>`- Como garantir a continuidade da solução?`
+* *Quais atividades e recursos norteadores você sugere para responder às questões norteadoras?*: <br>`- Reuniões com o cliente para validação de ideias` <br>
+`- Interface que agiliza os processos e é fácil de se utilizar` <br>
+`- Contato contínuo com o cliente para garantir a perenidade da solução.` <br>
 
 * *Quais os fundamentos que você aprendeu que nortearão as hipóteses de solução?*: <br> `- Metodologia Ágil (Iteração com o cliente)` <br> `- Experiência de usuário (UX/UI)` <br> `- MVP` <br> `- Teste de Software`
 * *Que solução você sugere para ser desenvolvida?*: <br>`Um aplicativo que ajuda a promover a adoção de animais de abrigo, conectando abrigos de animais e potenciais adotantes em uma plataforma fácil de usar e interativa.`
